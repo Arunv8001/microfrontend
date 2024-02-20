@@ -3,7 +3,7 @@ name: deploy-container-v1
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'packages/container/**'
 
